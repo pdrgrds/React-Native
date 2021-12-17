@@ -2,7 +2,7 @@
 
 Proyecto creado con expo
 
-##Pasos
+## Pasos
 
 > npm install
 
